@@ -1,5 +1,6 @@
-- 👋 Hi, I’m 1v9alex
+- 👋 Hi, I’m Alex
 
-I'm doing a bit of everything
+
+My Favourite Languages And Frameworks!
 
 ![Top Langs](https://skillicons.dev/icons?i=js,ts,html,css,php,py,nodejs,react,nextjs,vuejs,postgres,mysql,bash,docker,git)
