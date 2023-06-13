@@ -1,7 +1,11 @@
 - 👋 Hi, I’m Alex
 
 Im a 17 year old self taught polyglot!
+
+
 I am a Fullstack Developer & Software Engineer
+
+
 I am currently profficient in 20 Different languages and im always looking to learn more.
 
 My Favourite Langs, Frameworks & Tools!
