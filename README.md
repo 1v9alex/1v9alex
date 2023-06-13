@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alex
+👋 Hi, I’m Alex
 
 Im a 17 year old self taught polyglot!
 
