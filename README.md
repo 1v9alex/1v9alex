@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im a 17-year-old self-taught polyglot!<br><br>I am a Fullstack Developer & Software Engineer<br><br>I am currently proficient in over 25 Different languages and I'm always looking to learn more.<br><br>
+Im a 17-year-old self-taught polyglot!<br><br>I am a Fullstack Developer & Software Engineer<br><br>I am currently proficient in many Different languages and I'm always looking to learn more.<br><br>
 
 
 ## 🌐 Socials:
