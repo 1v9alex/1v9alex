@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im a 17-year-old self-taught polyglot!<br><br>I am a Fullstack Web Developer, Penetration Tester, Software Developer, & Reverse Engineer<br><br>I am currently proficient in many Different languages and I'm always looking to learn more.<br><br>
+Im a 18-year-old self-taught polyglot!<br><br>I am a Fullstack Web Developer, Penetration Tester, Software Developer, & Reverse Engineer<br><br>I am currently proficient in many Different languages and I'm always looking to learn more.<br><br>
 
 
 ## 🌐 Socials:
