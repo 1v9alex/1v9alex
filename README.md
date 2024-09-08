@@ -1,1 +1,1 @@
-1 commit a day since i was 10
+1 commit a day since i started learning how to code
